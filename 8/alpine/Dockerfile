@@ -1,4 +1,4 @@
-FROM wangdongxu/java:jdk8-apline
+FROM wangdongxu/java:jdk8_apline
 ENV TOMCAT_MAJOR=8 \
     TOMCAT_VERSION=8.0.9 \
     TOMCAT_HOME=/usr/local/tomcat \
